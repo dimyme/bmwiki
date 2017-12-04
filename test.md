@@ -1,5 +1,9 @@
 \
-\_\_NOTOC\_\_ Bitmessage is a P2P communications
+\_\_NOTOC\_\_ 
+
+***
+
+Bitmessage is a P2P - i.e. **peer to peer** - communications
 [protocol](Protocol_specification "wikilink") used to send encrypted
 messages to another person or to many subscribers. It is decentralized
 and trustless, meaning that you need-not inherently trust any entities
@@ -9,6 +13,8 @@ hide "non-content" data, like the sender and receiver of messages, from
 passive eavesdroppers like those running warrantless wiretapping
 programs. If Bitmessage is completely new to you, you may wish to start
 by reading the [whitepaper](https://bitmessage.org/bitmessage.pdf).
+
+***
 
 ### Download
 
