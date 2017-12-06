@@ -1,6 +1,6 @@
 ### noteworthy projects to be used in conjunction with BitMessage:
 ***
-https://github.com/majestrate/BitMessageForum
+https://github.com/majestrate/BitMessageForum web interface, use BM via firefox
 
 https://github.com/yamamushi/bmfec
 
