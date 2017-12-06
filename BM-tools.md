@@ -1,2 +1,2 @@
-## noteworthy projects to be used in conjunction with BitMessage:
+### noteworthy projects to be used in conjunction with BitMessage:
 ***
