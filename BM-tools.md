@@ -1,5 +1,6 @@
 ### noteworthy projects to be used in conjunction with BitMessage:
 ***
+https://github.com/majestrate/BitMessageForum
 
 https://github.com/yamamushi/bmfec
 
