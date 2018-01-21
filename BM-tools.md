@@ -12,6 +12,7 @@ https://github.com/Thomas-Astade/bitmessaged
 
 deploy BM on a debian server as daemon: https://github.com/r51n/auto-bitmessage 
 
+spam filter and BM API:   https://github.com/torifier/PyBitmessage/tree/master/bitmessage-API/spamfilter  
 
 
 
