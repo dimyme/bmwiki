@@ -10,7 +10,7 @@ https://github.com/bitchan/bitmessage
 
 https://github.com/Thomas-Astade/bitmessaged
 
-
+deploy BM on a debian server as daemon: https://github.com/r51n/auto-bitmessage 
 
 
 
