@@ -1,2 +1,2 @@
 - upnp working now?
-- fork by glitch has nice pyQt5 looks
+- fork by glitch has nice pyQt5 looks, honouring lower screen dpi etc.
