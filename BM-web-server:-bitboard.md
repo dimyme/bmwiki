@@ -23,6 +23,7 @@ Messages you send through bitboard are encoded into a _JSON_ blob, so is a bit u
 
 Not sure if I will maintain it much, it's more of a proof of concept type thing - but already bitboard is better than BMF, which has refreshing trouble a lot. _Essentially, BMF is a lot less interesting since the BitBoard era was ushered in._
 
-**please fork & contribute!**
+**please fork & contribute!**        https://github.com/michrob/bitboard 
 
-https://github.com/michrob/bitboard 
+***
+TODO: use the debian server deployment script for pyBM which s.o. posted somewhere and add BB to it for super-fast auto-deploy of a BM website on a headless remote server.
