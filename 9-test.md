@@ -1,3 +1,10 @@
+list of problems:
+* need-not  bad grammar 
+* the term is: meta-data
+*
+
+
+
 \
 \_\_NOTOC\_\_ 
 
