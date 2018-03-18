@@ -1,6 +1,7 @@
 an image board - i.e. **a website on top of Bitmessage** https://github.com/michrob/bitboard 
 
 ***
+If someone puts a BitBoard on public internet, please post the link here: _____________ , thanks.
 
 Although it's still somewhat basic, it does have a fair bit of features already, although they do come with some drawbacks. Basically, once you're running Bitmessage with the API enabled, you can then run bitboard, which will connect to the API, and load all your channels into a friendly 4chan-style image board. 
 
