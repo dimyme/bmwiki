@@ -2,6 +2,8 @@
 ***
 https://github.com/majestrate/BitMessageForum web interface, use BM via firefox
 
+https://github.com/michrob/bitboard web interface, use BM via firefox, more useable than _BitMessageForum_
+
 https://github.com/yamamushi/bmfec
 
 https://github.com/TheKysek/MiNode
