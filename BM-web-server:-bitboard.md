@@ -19,7 +19,7 @@ It also uses the python 'bleach' module in an attempt to prevent html/js from be
 *  Deleting posts and entire threads. 
 
 
-Messages you send through bitboard are encoded into a JSON blob, so is a bit unfriendly for users of the regulare pyBM, although posts are still somewhat readable in normal pyBM and BEAMSTAT.com . However, Bitboard will automatically distinguish between posts sent through bitboard vs. the official client "pyBM", and display both properly. 
+Messages you send through bitboard are encoded into a _JSON_ blob, so is a bit unfriendly for users of the regular pyBM, although posts are still somewhat readable in normal pyBM and BEAMSTAT.com . However, Bitboard will automatically distinguish between posts sent through bitboard vs. the official client "pyBM", and display both properly. 
 
 Not sure if I will maintain it much, it's more of a proof of concept type thing - but already bitboard is better than BMF, which has refreshing trouble a lot. _Essentially, BMF is a lot less interesting since the BitBoard era was ushered in._
 
