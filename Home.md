@@ -3,3 +3,5 @@ Please visit the official wiki here: https://bitmessage.org . There are also a [
 Pseudo-mailing-list [DevTalk](https://beamstat.com/broadcast/BM-2cW1UnsN4qc2TgLKpx8oxxeaxcSbs8CCLm) is also at [beamstat.com/chan/DevTalk](https://beamstat.com/chan/DevTalk) .
 
 [![tip for next commit](https://tip4commit.com/projects/226.svg)](https://tip4commit.com/github/Bitmessage/PyBitmessage) tip4commit with no guarantuee for anything, use at own risk.
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f82b652a646d4ab784ce06ba2bf275bb)](https://www.codacy.com/app/sigoa/PyBitmessage_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bitmessage/PyBitmessage&amp;utm_campaign=Badge_Grade)
