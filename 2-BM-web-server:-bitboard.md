@@ -5,7 +5,7 @@ an image board - i.e. **a website on top of Bitmessage** https://github.com/mich
 Although it's still somewhat basic, it does have a fair bit of features already, although they do come with some drawbacks. Basically, once you're running Bitmessage with the API enabled, you can then run bitboard, which will connect to the API, and load all your channels into a friendly 4chan-style image board. 
 
 
-Since this is running in your browser, it is worth noting that it does increase the attack surface. Possible to set up www-facing like www.BEAMSTAT.com
+Since this is running in your browser (e.g. **firefox**), it is worth noting that it does increase the attack surface. Possible to set up www-facing like www.BEAMSTAT.com
 
 
 I'd suggest disabling javascript if you are worried about that - bitboard uses only minimal uses of JS and is still **fully usable without JS** (like all 4chan-like picture-boards). 
