@@ -8,7 +8,7 @@ Although it's still somewhat basic, it does have a fair bit of features already,
 Since this is running in your browser, it is worth noting that it does increase the attack surface. Possible to set up www-facing like www.BEAMSTAT.com
 
 
-I'd suggest disabling javascript if you are worried about that - bitboard uses only minimal uses of JS and is still **fully usable without JS**. 
+I'd suggest disabling javascript if you are worried about that - bitboard uses only minimal uses of JS and is still **fully usable without JS** (like all 4chan-like picture-boards). 
 
 It also uses the python 'bleach' module in an attempt to prevent html/js from being injected. I spent a fair bit of work implementing popups and such using CSS to avoid reliance on JS based features. A few features 
 
