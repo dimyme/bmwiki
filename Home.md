@@ -3,7 +3,7 @@ Please visit the official wiki here: https://bitmessage.org . There are also a [
 Pseudo-mailing-list [DevTalk](https://beamstat.com/broadcast/BM-2cW1UnsN4qc2TgLKpx8oxxeaxcSbs8CCLm) is also at [beamstat.com/chan/DevTalk](https://beamstat.com/chan/DevTalk) .
 
 ### vulnerabilities / [security](https://github.com/Bitmessage/PyBitmessage/issues?q=is%3Aissue+is%3Aopen+label%3Asecurity) alert list: 
-[CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000070) - v0.4.4 is not affected btw.
+[CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000070) - which does not affect pyBM v0.4.4 btw.
 
 
 ***
