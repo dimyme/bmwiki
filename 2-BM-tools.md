@@ -1,8 +1,8 @@
 ### noteworthy projects to be used in conjunction with BitMessage:
 ***
-https://github.com/majestrate/BitMessageForum web interface, use BM via firefox
+https://github.com/michrob/bitboard web interface, use BM via firefox, better than _BitMessageForum_
 
-https://github.com/michrob/bitboard web interface, use BM via firefox, more useable than _BitMessageForum_
+https://github.com/majestrate/BitMessageForum web interface, use BM via firefox, bitboard is better though
 
 https://github.com/yamamushi/bmfec
 
