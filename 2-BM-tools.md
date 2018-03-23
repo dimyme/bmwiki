@@ -2,7 +2,7 @@
 ***
 https://github.com/michrob/bitboard web interface, use BM via firefox, better than _BitMessageForum_
 
-https://github.com/majestrate/BitMessageForum web interface, use BM via firefox, bitboard is better though
+https://github.com/majestrate/BitMessageForum web interface, bitboard is better though
 
 https://github.com/yamamushi/bmfec
 
