@@ -4,6 +4,8 @@ https://github.com/michrob/bitboard web interface, use BM via firefox, better th
 
 https://github.com/majestrate/BitMessageForum web interface, bitboard is better though
 
+there is something on github to use ThunderBird to read BM, simple and works. link: _______
+
 https://github.com/yamamushi/bmfec
 
 https://github.com/TheKysek/MiNode
