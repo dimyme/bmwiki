@@ -15,7 +15,6 @@ https://github.com/bitchan/bitmessage
 https://github.com/Thomas-Astade/bitmessaged
 
 https://github.com/Dissem/Abit
-
 Bitmessage Client for Android
 
 bash script to deploy BM on a debian server as [daemon](https://github.com/r51n/auto-bitmessage) 
