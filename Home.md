@@ -2,6 +2,9 @@ Please visit the official (read-only) wiki here: https://bitmessage.org . There 
 
 Pseudo-mailing-list [DevTalk](https://beamstat.com/broadcast/BM-2cW1UnsN4qc2TgLKpx8oxxeaxcSbs8CCLm) is also at [beamstat.com/chan/DevTalk](https://beamstat.com/chan/DevTalk) .
 
+IRC chat channels [#bitmessage](http://irc.netsplit.de/channels/?chat=bitmessage)  
+use IRC server inside Torbrowser over [TorNet](https://irc.dyne.org/?channels=bitmessage) at irc.dyne.org or at _eris.us.ircnet.net_  , port 6667
+
 ### vulnerabilities / [security](https://github.com/Bitmessage/PyBitmessage/issues?q=is%3Aissue+is%3Aopen+label%3Asecurity) alert list: 
 [CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000070) - which does not affect pyBM v0.4.4 btw.
 
