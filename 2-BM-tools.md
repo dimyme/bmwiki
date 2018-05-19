@@ -11,6 +11,8 @@ use ThunderBird to read BM:  https://github.com/Arceliar/bmwrapper
 runs a localhost:12344 pop3-mailserver for BM so ThunderBird is being used to read & write BM besides the original GUI. The "**claws**" mail-app can be used too, which has nice a python plug-in to have claws scripted and modified.
 
 puts everything in one huge INBOX initially. Use filters in ThuBi to separate the [chan]nels. 
+
+Gives you some more features, e.g. sort BM by size, which you cannot do in pyBM. No full threaded view, though.
 ***
 https://github.com/yamamushi/bmfec
 
