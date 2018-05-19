@@ -8,7 +8,7 @@ https://github.com/majestrate/BitMessageForum web interface, bitboard is better 
 ***
 use ThunderBird to read BM:  https://github.com/Arceliar/bmwrapper   
 
-runs a local mailserver for BM so ThunderBird is being used to read & write BM besides the original GUI. The "**claws**" mail-app can be used too, which has nice a python plug-in to have claws scripted and modified.
+runs a localhost:12344 pop3-mailserver for BM so ThunderBird is being used to read & write BM besides the original GUI. The "**claws**" mail-app can be used too, which has nice a python plug-in to have claws scripted and modified.
 ***
 https://github.com/yamamushi/bmfec
 
