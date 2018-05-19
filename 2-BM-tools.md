@@ -4,12 +4,12 @@ https://github.com/michrob/bitboard web interface, use BM via firefox, better th
 
 https://github.com/majestrate/BitMessageForum web interface, bitboard is better though
 
-there is something on github to use ThunderBird to read BM, simple and works. link: _______
 
 ***
+there is something on github to use ThunderBird to read BM:  https://github.com/Arceliar/bmwrapper   
 
-https://github.com/Arceliar/bmwrapper   runs a local mailserver for BM so ThunderBird is being used to read & write BM instead of (or besides) the original GUI
-
+runs a local mailserver for BM so ThunderBird is being used to read & write BM instead of (or besides) the original GUI
+***
 https://github.com/yamamushi/bmfec
 
 https://github.com/TheKysek/MiNode
