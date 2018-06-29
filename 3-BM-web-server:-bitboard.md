@@ -1,6 +1,6 @@
 an image board - i.e. **a website on top of Bitmessage** https://github.com/michrob/bitboard 
 ***
-quick install of Bitmessage and bitboard in a bash Konsole: [Bash installer Script](#     https://pastebin.com/raw/HrLtCKaj)
+quick install of Bitmessage and bitboard in a bash Konsole: [bash  installer Script](https://pastebin.com/print/HrLtCKaj)
 
 pastebin.com/HrLtCKaj
 
