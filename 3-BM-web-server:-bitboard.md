@@ -1,4 +1,8 @@
 an image board - i.e. **a website on top of Bitmessage** https://github.com/michrob/bitboard 
+***
+quick install of Bitmessage and bitboard in a bash Konsole: [Bash installer Script](#     https://pastebin.com/raw/HrLtCKaj)
+
+pastebin.com/HrLtCKaj
 
 ***
 If someone puts a BitBoard on public internet, please post the link here: _____________ , thanks.
