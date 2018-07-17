@@ -1,6 +1,6 @@
 ### noteworthy projects to be used in conjunction with BitMessage:
 ***
-easy **menu to install pyBm and bitboard** in just 10 seconds for GNU-Linux: https://pastebin.com/raw/HrLtCKaj
+easy **menu to install pyBm and bitboard** (a bash script to run in xterm) in just 10 seconds for GNU-Linux: https://pastebin.com/raw/HrLtCKaj
 
 ***
 https://github.com/michrob/bitboard web interface, use BM via firefox, better than _BitMessageForum_
