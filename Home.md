@@ -6,7 +6,7 @@ IRC chat channels [#bitmessage](http://irc.netsplit.de/channels/?chat=bitmessage
 use IRC server inside Torbrowser over [TorNet](https://irc.dyne.org/?channels=bitmessage) at irc.dyne.org or at _eris.us.ircnet.net_  , port 6667
 
 ### vulnerabilities / [security](https://github.com/Bitmessage/PyBitmessage/issues?q=is%3Aissue+is%3Aopen+label%3Asecurity) alert list: 
-[CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000070) - which does not affect pyBM v0.4.4 btw.
+[CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000070) - which does not affect pyBM v0.4.4 by the way
 
 
 ***
