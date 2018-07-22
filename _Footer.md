@@ -1,1 +1,1 @@
-https://www.reddit.com/r/bitmessage
+to the other [wiki](http://fossilrepos.sourceforge.net/srv.fsl/450/wcontent) at sourceforge
