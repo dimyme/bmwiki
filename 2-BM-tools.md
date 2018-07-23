@@ -34,5 +34,5 @@ spam filter and BM [API](https://github.com/torifier/PyBitmessage/tree/master/bi
 
 "[mammoth](https://gist.github.com/anonymous/925445ea97d7bc8622d0b706469adc42)" , a keys.dat file with 1000+ chans
 
-a [chan generator](http://bitmessage.mybb.im/viewtopic.php?id=30%23p106) in python
+a [chan generator](http://bitmessage.mybb.im/viewtopic.php?id=30%23p106) in python, [archived here](http://web.archive.org/web/20180723031649/http://bitmessage.mybb.im/viewtopic.php?id=30%23p222) .
 
