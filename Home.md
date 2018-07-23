@@ -1,6 +1,6 @@
 Please visit the official wiki (which is read-only sadly - however even this github-wiki is subject to wanton policy of admission by the new proprietors of github, i.e. MS)   https://bitmessage.org . There are also a [couple](http://mx.forum.cool/viewforum.php?id=6) of **[forums](http://bitmessage.mybb.im)** (http://bm6hsivrmdnxmw2f.onion/chan/UBF) for BitMessage and the [sub-reddit](https://www.reddit.com/r/bitmessage/).
 
-Pseudo-mailing-list [DevTalk](https://beamstat.com/broadcast/BM-2cW1UnsN4qc2TgLKpx8oxxeaxcSbs8CCLm) is also at [beamstat.com/chan/DevTalk](https://beamstat.com/chan/DevTalk) .
+Pseudo-mailing-list [DevTalk](https://beamstat.com/broadcast/BM-2cW1UnsN4qc2TgLKpx8oxxeaxcSbs8CCLm) is also at [beamstat.com/chan/DevTalk](https://beamstat.com/chan/DevTalk) and on [wayback](http://web.archive.org/web/20180723020825/https://bm6hsivrmdnxmw2f.onion.to/chan/DevTalk/78f88cb295fa0776e0818d3ab414d1635f4566a3b8c4f3da58a0ec61159fb19c) .
 
 IRC chat channels [#bitmessage](http://irc.netsplit.de/channels/?chat=bitmessage)  
 use IRC server inside Torbrowser over [TorNet](https://irc.dyne.org/?channels=bitmessage) at irc.dyne.org or at _eris.us.ircnet.net_  , port 6667
