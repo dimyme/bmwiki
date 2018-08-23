@@ -36,3 +36,4 @@ spam filter and BM [API](https://github.com/torifier/PyBitmessage/tree/master/bi
 
 a [chan generator](http://bitmessage.mybb.im/viewtopic.php?id=30%23p106) in python, [archived here](http://web.archive.org/web/20180723031649/http://bitmessage.mybb.im/viewtopic.php?id=30%23p222) .
 
+bash menu to use a one-time-pad additional encryption with BM: pyBM-sigoa
