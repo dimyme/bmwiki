@@ -1,1 +1,1 @@
-# how to not have error messages ? 
+both logfile and keys.dat are located in the subdir mentioned after you use menu FILE / MANAGE KEYS . 
