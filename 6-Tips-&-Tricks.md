@@ -1,6 +1,11 @@
 use Bitmessage over Tornet [settings](http://fossilrepos.sourceforge.net/srv.fsl/450/wiki?name=TORnet+settings)
 
 ***
+wondered why after "HELP / CONTACT SUPPORT" a commit hash sometimes showed, sometimes not?
+
+It is shown **only** if you run from the git repo. Running from a copied /src/ subdir will not success displaying the hash.
+
+***
 
 * Reduce the "log level" to have smaller "debug.log" files, or none at all.
 edit a text file "logger.dat" [accordingly](https://docs.python.org/2/library/logging.config.html#logging.config.fileConfig): how to [do it](https://bitmessage.org/forum/index.php?topic=4820.msg11163#msg11163)  to reduce logging,  edit a text file .../src/logger.dat   with content:
