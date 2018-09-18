@@ -31,4 +31,6 @@ Not sure if I will maintain it much, it's more of a proof of concept type thing 
 **please fork & contribute!**        https://github.com/michrob/bitboard 
 
 ***
+You can expose bitboard to the darkweb on an .onion-www-site using this single bash [script]( http://fossilrepos.sourceforge.net/srv.fsl/450/wiki?name=Leeres+Fossil+Repo), then you run a website like http://beamstat.com
+
 TODO: use the debian server deployment script for pyBM which s.o. posted somewhere and add BB to it for super-fast auto-deploy of a BM website on a headless remote server.
