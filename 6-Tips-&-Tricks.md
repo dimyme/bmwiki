@@ -3,7 +3,7 @@ use Bitmessage over Tornet [settings](http://fossilrepos.sourceforge.net/srv.fsl
 ***
 wondered why after "HELP / CONTACT SUPPORT" a commit hash sometimes showed, sometimes not?
 
-It is shown **only** if you run from the full cloned git repo. Running from a copied /src/ subdir will not display the hash in contrast.
+It is shown **only** if you run from the full cloned git repo. Running from a copied /src/ subdir will not display the hash by contrast.
 
 ***
 
