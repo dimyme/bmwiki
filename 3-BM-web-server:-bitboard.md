@@ -5,6 +5,13 @@ quick install of Bitmessage and bitboard in a bash Konsole: [bash  installer Scr
 _**pastebin.com/HrLtCKaj**_
 
 ***
+bb is a **working webserver** right out of the box! using web.py engine
+
+the above bash menu installs bitboard as a webserver right away! So on a rental v-server you have a web-facing GUI like beamstat.com
+
+But bb can use a lil improvement for a web deployment: proper daemon mode and restart after crash.
+
+
 If someone puts a BitBoard on public internet, please post the link here: _____________ , thanks.
 
 Although it's still somewhat basic, it does have a fair bit of features already, although they do come with some drawbacks. Basically, once you're running Bitmessage with the API enabled, you can then run bitboard, which will connect to the API, and load all your channels into a friendly 4chan-style image board. 
