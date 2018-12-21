@@ -1,7 +1,7 @@
-well
+2 links:
 
-https://github.com/dimyme/bmwiki/blob/master/Home.md
+[wiki](https://github.com/dimyme/bmwiki/blob/master/Home.md)
 
-https://github.com/Bitmessage/PyBitmessage/wiki
+[wiki home](https://github.com/Bitmessage/PyBitmessage/wiki)
 
 confusing , no ?
