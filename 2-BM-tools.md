@@ -1,6 +1,6 @@
 ### noteworthy projects to be used in conjunction with BitMessage:
 ***
-easy **menu to install pyBm and bitboard** (a bash script to run in xterm) in just 10 seconds for GNU-Linux is [here](https://gist.githubusercontent.com/KM-200/715f8847bd24b9e6ebb90e0a64d5149a/raw/747df7a695b09aa5e133d6a7d86c6387ab10348e/bm_menu.sh) and [here](http://fossilrepos.sourceforge.net/srv.fsl/450/wcontent?all=1) . The latter link points to a censorship-free wiki. Unfortunately, some Bitmessage sites suffer from censorship beyond the control of BM admins and developers. [python2-sip-pyqt4](https://gitlab.com/inemum/inemum_archlinux/raw/master/python2-sip-pyqt4/PKGBUILD) may be rquired too.
+easy **menu to install pyBm and bitboard** (a bash script to run in xterm) in just 10 seconds for GNU-Linux is [here](https://gist.githubusercontent.com/KM-200/715f8847bd24b9e6ebb90e0a64d5149a/raw/747df7a695b09aa5e133d6a7d86c6387ab10348e/bm_menu.sh) and [here](http://fossilrepos.sourceforge.net/srv.fsl/450/wcontent?all=1) . The latter link points to a censorship-free wiki. Unfortunately, some Bitmessage sites suffer from censorship beyond the control of BM admins and developers. [python2-sip-pyqt4](https://gitlab.com/inemum/inemum_archlinux/raw/master/python2-sip-pyqt4/PKGBUILD) may be required too.
 
 You can expose bitboard to the darkweb on an .onion-www-site using this single [bash script](http://fossilrepos.sourceforge.net/srv.fsl/450/wiki?name=Leeres+Fossil+Repo), then you run a website like http://beamstat.com
 ***
